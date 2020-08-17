@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Jfinal-layui
 
 #### 介绍
@@ -187,3 +188,7 @@ code:字典编号，name:元素name属性,text:选项名称，需要选中值，
 ![删除提示](https://images.gitee.com/uploads/images/2020/0121/180754_f657eab0_1692092.png "删除提示.png")
 
 感兴趣的攻城狮可以参考，希望能对你有帮助。
+=======
+开坑一个网站项目，我也不知道到底能不能填坑
+我觉得难
+>>>>>>> fceebbd9a1e53222b038edcafce51e0f282988a1
